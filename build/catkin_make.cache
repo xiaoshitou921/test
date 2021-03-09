@@ -1,0 +1,2 @@
+kinova_control:kinova_description:kinova_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/tuo/Documents/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tuo/Documents/catkin_ws/install -G Unix Makefiles
